@@ -10,3 +10,4 @@ groq
 pinecone-client
 yt-dlp
 pydub
+pyaudioop
