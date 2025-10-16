@@ -2,8 +2,7 @@ streamlit
 python-dotenv
 aiofiles
 requests
-azure-storage-filedatalake-aio
-azure-storage-filedatalake
+azure-storage-file-datalake
 langchain-groq
 langchain
 sentence-transformers
