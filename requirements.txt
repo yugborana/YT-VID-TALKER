@@ -1,9 +1,7 @@
 streamlit
-asyncio
-dotenv
+python-dotenv
 aiofiles
 requests
-json
 urllib
 azure-storage-filedatalake-aio
 azure-storage-filedatalake
