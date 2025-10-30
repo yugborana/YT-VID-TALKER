@@ -1,4 +1,4 @@
-streamlit
+fastapi
 python-dotenv
 aiofiles
 requests
@@ -10,4 +10,6 @@ groq
 pinecone-client
 yt-dlp
 pydub
-pyaudioop
+audioop-lts
+langchain-core
+langchain-classic

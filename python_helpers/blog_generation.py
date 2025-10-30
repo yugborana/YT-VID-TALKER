@@ -5,9 +5,9 @@ from dotenv import load_dotenv
 
 # LangChain Imports
 from langchain_groq import ChatGroq
-from langchain.chains.summarize import load_summarize_chain
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.docstore.document import Document
+from langchain_classic.chains.summarize.chain import load_summarize_chain
+from langchain_classic.text_splitter import RecursiveCharacterTextSplitter
+from langchain_classic.docstore.document import Document
 
 load_dotenv()
 
