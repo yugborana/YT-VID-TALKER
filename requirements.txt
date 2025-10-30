@@ -10,6 +10,5 @@ groq
 pinecone-client
 yt-dlp
 pydub
-audioop-lts
 langchain-core
 langchain-classic
