@@ -140,11 +140,7 @@ Video Demo - [screen-capture.webm](https://github.com/user-attachments/assets/73
    GROQ_API_KEY=your_groq_api_key
    SARVAM_API_KEY=your_sarvam_api_key
    PINECONE_API_KEY=your_pinecone_api_key
-   
-   # Azure Storage (for transcription)
-   AZURE_STORAGE_ACCOUNT=your_azure_account
-   AZURE_STORAGE_KEY=your_azure_key
-   AZURE_FILESYSTEM=your_filesystem_name
+
    ```
 
 ## 🚀 Usage
