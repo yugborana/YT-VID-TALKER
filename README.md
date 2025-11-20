@@ -146,34 +146,19 @@ Video Demo - [screen-capture.webm](https://github.com/user-attachments/assets/73
 ## 🚀 Usage
 
 ### Development Mode
+1. **Start the backend**
+   ```bash
+   uvicorn api.index:app --reload --port 8000
+   ```
 
-1. **Start the development server**
+4. **Start the development server**
    ```bash
    pnpm dev
    ```
 
-2. **Open your browser**
+5. **Open your browser**
    Navigate to `http://localhost:3000`
 
-### Production Deployment
-
-1. **Build the application**
-   ```bash
-   pnpm build
-   ```
-
-2. **Start production server**
-   ```bash
-   pnpm start
-   ```
-
-### Vercel Deployment
-
-The project is configured for Vercel deployment:
-
-1. **Connect your repository** to Vercel
-2. **Configure environment variables** in Vercel dashboard
-3. **Deploy** - Vercel will automatically detect and build both frontend and backend
 
 ## 🔧 API Endpoints
 
